@@ -1,0 +1,6 @@
+aws_region = "us-east-1"
+ami_id = "ami-091138d0f0d41ff90"
+instance_type = "t3.micro"
+instance_name = "Dev-server"
+bucket_name = "my-devsingh-bucket-124"
+environment = "dev"

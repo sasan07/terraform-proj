@@ -1,0 +1,6 @@
+aws_region = "us-east-1"
+instance_type = "t3.micro"
+instance_name = "Prod-server"
+ami_id = "ami-091138d0f0d41ff90"
+bucket_name = "my-prod-singh-4347"
+environment = "prod"
